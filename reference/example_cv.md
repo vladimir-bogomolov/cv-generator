@@ -1,5 +1,3 @@
-{{photo}}
-
 # Vladimir Bogomolov
 Amsterdam, The Netherlands
 +31 6 4871 1578

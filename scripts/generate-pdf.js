@@ -16,7 +16,11 @@ async function generatePdf(companyName) {
     process.exit(1);
   }
 
-  const mdContent = fs.readFileSync(cvMdPath, 'utf8');
+  const mdContent = fs.readFileSync(cvMdPath, 'utf8')
+    .split('\n')
+    .filter(line => !line.trimStart().startsWith('!['))
+    .filter(line => line.trim() !== '{{photo}}')
+    .join('\n');
   marked.use({ breaks: true });
   const htmlBody = marked.parse(mdContent);
 
@@ -48,9 +52,8 @@ async function generatePdf(companyName) {
     line-height: 1.4;
     color: #1a1a1a;
     background: white;
-    padding: 15mm 18mm 15mm 18mm;
+    padding: 10mm 14mm 10mm 14mm;
     width: 210mm;
-    min-height: 297mm;
     position: relative;
   }
 
@@ -189,7 +192,7 @@ ${(() => { const lines = htmlBody.split('\n'); const h2Idx = lines.findIndex(l =
     const page = await browser.newPage();
     await page.setContent(html, { waitUntil: 'networkidle0' });
     const scrollHeight = await page.evaluate(() => document.documentElement.scrollHeight);
-    const a4HeightPx = 1132; // ~297mm at 96dpi with small buffer for rounding
+    const a4HeightPx = 1118; // 297mm at 96dpi = ~1122px, minus 4px rounding buffer
     if (scrollHeight > a4HeightPx) {
       console.warn(`[PAGE OVERFLOW] Content is ${scrollHeight}px — exceeds 1 A4 page (${a4HeightPx}px). CV must be shortened.`);
     }

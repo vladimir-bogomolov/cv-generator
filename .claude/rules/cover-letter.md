@@ -4,9 +4,13 @@ The cover letter must be short and natural.
 
 Maximum length: 150 words.
 
+Opening:
+
+Start with "Hi," — never use "Dear X team" or similar formal openers.
+
 Structure:
 
-Paragraph 1  
+Paragraph 1
 Introduce yourself and mention the role.
 
 Paragraph 2  
