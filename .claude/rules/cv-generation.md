@@ -111,3 +111,43 @@ metrics
 Do not use `---` separator lines between sections in cv.md. They add visual clutter and are hidden in the PDF anyway.
 
 After running the PDF script, check its output. If it prints `[PAGE OVERFLOW]`, the CV is too long — shorten bullet points or remove less relevant content, rewrite cv.md, and regenerate. Repeat until no overflow warning appears.
+
+---
+
+# Markdown Heading Structure
+
+The PDF renderer CSS maps heading levels strictly. Always use:
+
+- `#` — candidate name only (first line)
+- `##` — job title AND all section headers (Technical Skills, Professional Experience, Languages, Education)
+- `###` — individual role headers (e.g. Full-Stack Developer — Hastens Beds)
+- `*Month Year – Month Year*` — dates in italic
+
+Correct skeleton:
+
+```
+# Vladimir Bogomolov
+Amsterdam, The Netherlands | +31 6 4871 1578
+vladimir.y.bogomolov@gmail.com
+linkedin.com/in/vladi-bogomolov
+
+## Job Title
+
+[summary paragraph]
+
+## Technical Skills
+
+## Professional Experience
+
+### Role — Company
+
+*Month Year – Month Year*
+
+- bullet
+
+## Languages
+
+## Education
+```
+
+Using `#` for sections and `##` for roles is wrong — it causes role headers to render centered and uppercase in the PDF.
