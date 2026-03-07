@@ -35,6 +35,8 @@ key technologies
 
 Avoid buzzwords and exaggerated claims.
 
+Do not mention SaaS in the summary. Professional experience covers e-commerce and enterprise platforms only. Frood App is an independent project, not a SaaS product.
+
 If the job is in ecommerce - highlight 5+ years of experience in the domain.
 
 Always mention ability and openes to use AI tools like Cursor, Claude (Anthropic) to enhance productivity and code quality, and shift focus from writing code to architectural decisions and problem solving.

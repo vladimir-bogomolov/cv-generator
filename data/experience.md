@@ -16,7 +16,7 @@ Participated in system architecture discussions, helping design maintainable bac
 Implemented backend optimizations that improved application performance and reduced service latency.
 Collaborated with cross-functional teams to translate product requirements into reliable backend functionality.
 Clients: VodafoneZiggo, Mayerline 
-Stack: SFCC SFRA, Node.js, JavaScript, TypeScript, MongoDB, MySQL, REST API, CI/CD, Git, AWS, Salesforce Commerce Cloud (SFCC)
+Stack: SFCC SFRA, Node.js, JavaScript, TypeScript, MongoDB, MySQL, REST API, CI/CD, Git, AWS, Salesforce Commerce Cloud (SFCC), Python
 
 # Backend Developer - EmakinaNL (EPAM Systems)
 Mar 2021 - Aug 2022
@@ -33,4 +33,4 @@ Built and launched an OCR-based mobile/web application independently, managing t
 Developed backend services using Node.js and JavaScript, integrating Google Vision API to extract and process text from images.
 Designed application logic for processing scanned receipts and structured data extraction.
 Managed infrastructure, deployment, and product iteration while gathering user feedback and improving features.
-Stack: React Native, React, Node.js, JavaScript, TypeScript, MongoDB, MySQL, REST API, CI/CD, Git, AWS, Google Vision AI
+Stack: React Native, React, Node.js, JavaScript, TypeScript, MongoDB, MySQL, REST API, CI/CD, Git, AWS, Google Vision AI, Python
