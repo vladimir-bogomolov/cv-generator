@@ -39,6 +39,8 @@ Do not mention SaaS in the summary. Professional experience covers e-commerce an
 
 If the job is in ecommerce - highlight 5+ years of experience in the domain.
 
+When describing the candidate in the summary paragraph, match the self-description to the role type. For Frontend-only or Backend-only roles, use "software engineer" or "developer" instead of "full-stack engineer" — calling yourself full-stack looks like a mismatch for a focused role.
+
 Always mention ability and openes to use AI tools like Cursor, Claude (Anthropic) to enhance productivity and code quality, and shift focus from writing code to architectural decisions and problem solving.
 
 Write the summary in first person, but avoid starting every sentence with "I". Vary sentence structure: begin some sentences with a noun phrase (e.g. "5+ years of...", "Certified X with...") and use implicit first person (e.g. "Currently expanding into..." instead of "I am currently expanding into..."). Use "I" sparingly — at most once.
