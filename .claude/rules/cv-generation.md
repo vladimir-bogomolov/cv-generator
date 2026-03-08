@@ -1,5 +1,9 @@
 # CV Generation Rules
 
+# Language
+
+Generate the CV in the same language as the job description. If the job posting is in Dutch, write the CV in Dutch. If in English, write in English. Match the language exactly.
+
 Use the structure from:
 reference/example_cv.md
 

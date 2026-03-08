@@ -1,5 +1,9 @@
 # Cover Letter Rules
 
+# Language
+
+Write the cover letter in the same language as the job description. If the job posting is in Dutch, write in Dutch. If in English, write in English.
+
 The cover letter must be short and natural.
 
 Maximum length: 150 words.
