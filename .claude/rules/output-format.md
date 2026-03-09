@@ -14,6 +14,7 @@ output/coinbase/
 
 # Generated Files
 
+position.md
 job_analysis.md
 cv.md
 cv.pdf

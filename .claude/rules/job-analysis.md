@@ -86,3 +86,7 @@ Event-driven architecture
 
 Save the structured analysis to:
 output/<company-name>/job_analysis.md
+
+Also save `output/<company-name>/position.md` containing:
+- The position URL (if provided), on the first line
+- The full raw job description text below it
