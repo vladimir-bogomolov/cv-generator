@@ -65,6 +65,8 @@ Optionally group backend and frontend skills.
 
 Include only relevant skills, but if there is spare space you can list all other professional skills. For university skills - only list if relevant to the job.
 
+Do NOT include an E-commerce skills section (SFCC, B2C Commerce, etc.) for non-e-commerce roles. Only add it when the job is explicitly in e-commerce or requires SFCC/Salesforce Commerce Cloud.
+
 If the skill is important for the job, but missing in the lists - include it in CV as a topic of current learning (clearly mention it is a topic of current learning).
 
 ---
@@ -86,6 +88,8 @@ Highlight technologies relevant to the job.
 Align bullet points with job keywords where truthful.
 
 Focus on impact and results when possible.
+
+When the role is not in e-commerce, reframe experience bullets to emphasize backend, infrastructure, or engineering aspects — not the e-commerce domain. For example, "Led the e-commerce domain" should become "Owned technical direction across backend services and integrations".
 
 ---
 

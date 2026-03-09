@@ -33,4 +33,6 @@ Avoid generic phrases.
 
 Never use em dashes.
 
-Keep writing simple and human-like, don't use typical phrases. Make it to stand out
+Keep writing simple and human-like, don't use typical phrases. Make it to stand out.
+
+Do NOT reference the candidate's e-commerce background when applying for non-e-commerce roles. Do not use it as a comparison point or contrast ("step up from e-commerce"). Framing past work as a lesser domain looks odd and undermines the application.
