@@ -4,16 +4,16 @@
 JavaScript, TypeScript, Python
 
 ## Frontend Development
-React, Next.js, React Native, component architecture, hooks, state management, responsive UI development, UI performance optimization, REST API integration, CSS, SCSS, HTML, Bootstrap
+React, Next.js, React Native, component architecture, hooks, state management, responsive UI development, UI performance optimization, REST API integration, CSS, SCSS, HTML, Bootstrap, Django
 
 ## Backend Development
 Node.js, Express, REST API design and implementation, business logic development, asynchronous programming, distributed systems fundamentals
 
 ## Databases
-MongoDB, MySQL, schema design fundamentals, query optimization basics
+MongoDB, MySQL, SQL, schema design fundamentals, query optimization basics
 
 ## Cloud & Infrastructure
-AWS (EC2, S3), deployment pipelines, infrastructure basics, cloud-based application deployment, Salesforce Commerce Cloud (SFCC)
+AWS (EC2, S3, RDS, SQS), deployment pipelines, infrastructure basics, cloud-based application deployment, Salesforce Commerce Cloud (SFCC)
 
 ## DevOps & Development Workflow
 Git, CI/CD pipelines, GitLab CI, Jenkins, Bamboo, Agile/Scrum workflows, debugging and troubleshooting production systems
