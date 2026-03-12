@@ -31,7 +31,7 @@ Stack: SFCC SFRA, SFCC SiteGenesis, Node.js, JavaScript, TypeScript, MongoDB, My
 # Independent Developer - Frood App
 Apr 2020 - Mar 2021
 Built and launched an OCR-based mobile/web application independently, managing the full development lifecycle from concept to deployment.
-Developed backend services using Node.js and JavaScript, integrating Google Vision API to extract and process text from images.
+Developed backend services using Node.js and JavaScript, integrating Google Vision API to extract and process text from label images.
 Designed application logic for processing scanned receipts and structured data extraction.
 Managed infrastructure, deployment, and product iteration while gathering user feedback and improving features.
 Stack: React Native, React, Node.js, JavaScript, TypeScript, MongoDB, MySQL, REST API, CI/CD, Git, AWS, Google Vision AI, Python

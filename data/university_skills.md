@@ -23,3 +23,6 @@ System design fundamentals, distributed systems concepts, debugging methodologie
 
 ## Mathematics & Engineering
 Mathematical modeling, optimization methods, systems engineering
+
+## Inductrial Engineering & Manufacturing
+PhD in Inductrial Engineering and experience in designing, calculating, automating and running production lines in environmental protection industry

@@ -4,7 +4,7 @@
 JavaScript, TypeScript, Python
 
 ## Frontend Development
-React, Next.js, React Native, component architecture, hooks, state management, responsive UI development, UI performance optimization, REST API integration, CSS, SCSS, HTML, Bootstrap, Django
+React, Next.js, React Native, component architecture, hooks, state management, responsive UI development, UI performance optimization, REST API integration, CSS, SCSS, HTML, Bootstrap, Django, Flask
 
 ## Backend Development
 Node.js, Express, REST API design and implementation, business logic development, asynchronous programming, distributed systems fundamentals
