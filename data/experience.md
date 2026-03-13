@@ -1,6 +1,6 @@
 # Full-Stack Developer - Hastens Beds
 Aug 2025 - Jan 2026
-Led the e-commerce domain for the entire company, owning technical direction across storefront, backend services, and third-party integrations.
+Led the entire e-commerce department, owning technical direction across storefront, backend services, and third-party integrations.
 Designed and maintained scalable backend services using Node.js, JavaScript, and TypeScript, supporting customer-facing e-commerce and internal systems.
 Built and maintained RESTful APIs powering web applications, ensuring secure and efficient data exchange between services.
 Improved backend reliability and performance by optimizing API responses, database queries, and service architecture.

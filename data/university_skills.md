@@ -16,7 +16,7 @@ Dynamic programming, greedy algorithms, advanced data structures, algorithmic pr
 RSA cryptography, quantum computing fundamentals, quantum algorithms (Shor's algorithm, Quantum Fourier Transform), IBM Qiskit
 
 ## Networking
-Network systems foundations, Linux networking fundamentals, cloud networking concepts, TCP/IP protocol stack, OSI model, socket programming, routing protocols, network security basics, Docker networking, Kubernetes networking, GCP (Google Cloud Platform), Terraform, VPC design, software-defined networking, NAT, load balancing, firewall configuration
+Network systems foundations, Linux networking fundamentals, cloud networking concepts, TCP/IP protocol stack, OSI model, socket programming, routing protocols, network security basics, Kubernetes, Kubernetes networking, GCP (Google Cloud Platform), Terraform, VPC design, software-defined networking, NAT, load balancing, firewall configuration
 
 ## Software Engineering Fundamentals
 System design fundamentals, distributed systems concepts, debugging methodologies, software testing basics
