@@ -48,6 +48,6 @@ node scripts/generate-pdf.js <company-name>
 
 - CV is always max 1 A4 page
 - Never fabricates experience, companies, or metrics
-- All 4 roles always included (Hastens, Forward, EmakinaNL, Frood)
+- All job experiences always included
 - University skills labeled as such when included
 - Summary written in first person, human tone
